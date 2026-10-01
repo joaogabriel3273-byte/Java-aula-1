@@ -33,5 +33,3 @@ Os dados são armazenados em variáveis do tipo `String` para uso posterior.
 ```bash
    mvn compile exec:java -Dexec.mainClass="Mavenproject1"
 ```
-
-## Exemplo de uso
